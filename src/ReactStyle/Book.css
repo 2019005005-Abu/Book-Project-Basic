@@ -1,0 +1,42 @@
+.Book{
+ border: 5px solid red;
+ padding: 10px 20px; 
+ width: 300px;
+ text-align: center;
+ margin: 0 auto;
+ margin-top: 50px;
+ margin-bottom: 30px;
+ border-radius: 30%;
+ background: blue;
+ color:white;
+}
+input,Button{
+padding: 10px 20px;
+margin-top: 30px;
+border-radius: 30%;
+background: grey;
+color: black;
+font-weight: 300;
+box-shadow: 2px 12px;
+
+}
+h1{
+background: black;
+color: red;
+padding: 10px 20px;
+}
+*{
+margin: 0px;
+}
+body{
+background:rgb(210, 210, 210)
+}
+.Book:hover{
+background: red;
+ color:black;
+}
+h4,h6{
+	margin-top:20px; 
+	color: aqua;
+}
+
